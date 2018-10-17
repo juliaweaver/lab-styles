@@ -30,6 +30,7 @@
         android:textSize="18sp"
         android:textStyle="bold"
         android:text="@string/label1"
+        style="@style/TextStyle"
         />
 
     <TextView
